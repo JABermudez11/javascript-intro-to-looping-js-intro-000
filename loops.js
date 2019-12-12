@@ -24,7 +24,7 @@ function doWhileLoop(integer) {
     return i;
   }
   do{
-    incrementVariable();
+    
     console.log('I run once regardless.');
   }while(integer > incrementVariable())
 }
